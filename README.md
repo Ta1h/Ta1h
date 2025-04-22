@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ta1h&label=Profile%20views&color=0e75b6&style=flat" alt="ta1h" /> </p>
 
-- 🔭 I’m currently working on **Intership**
+- 🔭 I’m currently working at a company based in the Philipppines as an **Associate Software Developer**
 
 - 🌱 I’m currently learning **Next.js 14**
 
